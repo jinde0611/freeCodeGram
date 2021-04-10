@@ -1,0 +1,36 @@
+[	
+	{
+	  "user_properties": [
+		{
+		  "key": "email",
+		  "value": {
+			"string_value": "ak@test.com",
+			"int_value": null,
+			"float_value": null,
+			"double_value": null,
+			"set_timestamp_micros": null
+		  }
+		},
+		{
+		  "key": "name",
+		  "value": {
+			"string_value": "Akul",
+			"int_value": null,
+			"float_value": null,
+			"double_value": null,
+			"set_timestamp_micros": null
+		  }
+		},
+		{
+		  "key": "age",
+		  "value": {
+			"string_value": null,
+			"int_value": 28,
+			"float_value": null,
+			"double_value": null,
+			"set_timestamp_micros": null
+		  }
+		}
+	  ]
+	}
+]
